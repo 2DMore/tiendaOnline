@@ -1,0 +1,12 @@
+D:\ProyectoCarrito\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\ProyectoCarrito\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\ProyectoCarrito\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+D:\ProyectoCarrito\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\ProyectoCarrito\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\ProyectoCarrito\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.pdb
+I:\ProyectoCarrito\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.dll
+I:\ProyectoCarrito\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.pdb
+I:\ProyectoCarrito\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+I:\ProyectoCarrito\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+I:\ProyectoCarrito\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.dll
+I:\ProyectoCarrito\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.pdb

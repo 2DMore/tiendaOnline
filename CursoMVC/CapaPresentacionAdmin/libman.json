@@ -1,0 +1,22 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "bootstrap@5.3.1",
+      "destination": "lib/bootstrap/"
+    },
+    {
+      "library": "font-awesome@6.4.2",
+      "destination": "Content/lib/font-awesome/"
+    },
+    {
+      "library": "datatables@1.10.21",
+      "destination": "lib/datatables/"
+    },
+    {
+      "library": "datatables.net-responsive@2.5.0",
+      "destination": "Content/lib/js/datatables.net-responsive/"
+    }
+  ]
+}
